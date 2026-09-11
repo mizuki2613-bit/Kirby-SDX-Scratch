@@ -4,32 +4,33 @@ Scratchで[星のカービィ スーパーデラックス](https://www.nintendo.
 
 TurboWarpで[プレイ](https://www.turbowarp.org/1103369861)することをお勧めします。
 
-今後、新機能を色々と追加していく予定ですが、現在は今後の開発に向けて、ゲーム構造を根本的に変更することに取り組んでいます。
+今後の機能追加に向けて、現在はゲーム構造を根本的に変更しています。
 
 ## 操作方法
 
 ### 基本操作
 
-| 操作名 | パソコン | モバイル |
-| ------- | ------- | ------- |
-| 移動 | WASD・十字キー | ジョイスティック |
+| 操作名   | パソコン                 | モバイル                   |
+| -------- | ------------------------ | -------------------------- |
+| 移動     | WASD・十字キー           | ジョイスティック           |
 | ダッシュ | 移動キーをダブルクリック | 画面ダブルタップで切り替え |
-| 吸い込み | X | Actionボタンをタップ |
-| 一時停止 | P |  |
-| ガイド | Space | 説明文をタップ |
-| 情報表示 | H |  |
-| FPS表示 | F |  |
+| 吸い込み | X                        | Actionボタンをタップ       |
+| 一時停止 | P                        | 未対応                     |
+| ガイド   | Space                    | 説明文をタップ             |
+| 情報表示 | H                        | 未対応                     |
+| FPS表示  | F                        | 未対応                     |
 
 ### エディターモード
 
-| 操作名 | パソコン |
-| ------- | ------- |
-| モード切り替え | ! (Shift + 1) |
-| タイル選択 | E |
-| タイルの種類を切り替え | 1~9 |
-| レベルを選択 | L |
-| レベルをリセット | R |
+ステージを編集できます。パソコンのみ利用可能です。
 
+| 操作名                 | パソコン      |
+| ---------------------- | ------------- |
+| モード切り替え         | ! (Shift + 1) |
+| タイル選択             | E             |
+| タイルの種類を切り替え | 1~9           |
+| レベルを選択           | L             |
+| レベルをリセット       | R             |
 
 ## クレジット
 
@@ -43,28 +44,28 @@ TurboWarpで[プレイ](https://www.turbowarp.org/1103369861)することをお�
 
 ## 素材
 
-### Costumes
+### コスチューム
 
 [Kirby Super Star - SNES - The Spriters Resource](https://spriters-resource.com/snes/kirbysuperstar)
 
-### Sound effects
+### 効果音
 
 [Kirby Super Star - SNES - The Spriters Resource](https://sounds.spriters-resource.com/snes/kirbysuperstar)
 
-### Music
+### 音楽
 
 [Kirby Super Star Ultra - Nintendo DS (2SF) Music - Zophar's Domain](https://www.zophar.net/music/nintendo-ds-2sf/kirby-super-star-ultra)
 
-
-### Fonts
+### フォント
 
 [Kirby Super Star Dialogue | FontStruct](https://fontstruct.com/fontstructions/show/2466905/kirby-super-star-dialogue)
 
 ## 参考資料
 
-### Reference sites
+### 敵データ
 
 [星のカービィSDXの、敵キャラのHPデータ。](https://god-bird.net/data/kirbysdxmon.html)
 
-### Beginner's Room
+### 初心者の部屋
+
 [初心者の部屋 | カービィWiki | Fandom](https://kirby.fandom.com/ja/wiki/初心者の部屋)
