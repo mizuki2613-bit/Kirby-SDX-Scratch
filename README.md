@@ -40,3 +40,31 @@ TurboWarpで[プレイ](https://www.turbowarp.org/1103369861)することをお�
 [fuga0711](https://scratch.mit.edu/users/fuga0711)様の[星のカービィ <ダークマターの逆襲>(ずっと未完成)](https://scratch.mit.edu/projects/174887583)から吸い込みのコードを借りました。
 
 [monotsuku0826](https://scratch.mit.edu/users/monotsuku0826)様の[ダブルクリックマスター](https://scratch.mit.edu/projects/913793373)からダブルクリックを判定するコードを借りました。
+
+## 素材
+
+### Costumes
+
+[Kirby Super Star - SNES - The Spriters Resource](https://spriters-resource.com/snes/kirbysuperstar)
+
+### Sound effects
+
+[Kirby Super Star - SNES - The Spriters Resource](https://sounds.spriters-resource.com/snes/kirbysuperstar)
+
+### Music
+
+[Kirby Super Star Ultra - Nintendo DS (2SF) Music - Zophar's Domain](https://www.zophar.net/music/nintendo-ds-2sf/kirby-super-star-ultra)
+
+
+### Fonts
+
+[Kirby Super Star Dialogue | FontStruct](https://fontstruct.com/fontstructions/show/2466905/kirby-super-star-dialogue)
+
+## 参考資料
+
+### Reference sites
+
+[星のカービィSDXの、敵キャラのHPデータ。](https://god-bird.net/data/kirbysdxmon.html)
+
+### Beginner's Room
+[初心者の部屋 | カービィWiki | Fandom](https://kirby.fandom.com/ja/wiki/初心者の部屋)
